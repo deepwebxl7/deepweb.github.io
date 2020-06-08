@@ -1,0 +1,29 @@
+body{
+margin:0px;
+padding:0px;
+color:white;
+background:url(../img/bg.jpg) no-repeat center center fixed;
+background-size: cover;
+}
+.themesg{
+	padding:0px;
+	overflow-y: scroll;
+	height:200px;
+}
+.newsstring{
+	text-decoration:none;
+	border:4px solid darkcyan;
+	border-radius:5px;
+	padding-top:10px;
+	background-color:#292a2b;
+}
+.container{
+	background-color:transparent;
+}
+.tab-content{
+	background-color:#292a2b;
+	border:1px solid darkcyan;
+	border-radius:5px;
+	padding-top:10px;
+	height:100%;
+}
